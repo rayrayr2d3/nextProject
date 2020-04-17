@@ -1,2 +1,3 @@
 # nextProject
  
+Project using React, Typescript, Next.js, Sass, and ...

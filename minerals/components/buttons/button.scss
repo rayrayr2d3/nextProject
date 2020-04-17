@@ -1,0 +1,16 @@
+@import './../../pages/app.tsx';
+
+.primary {
+    background-color: $robinEgg;
+    color: $black;
+}
+
+.secondary {
+    background-color: $softRed;
+    color: $white;
+}
+
+.tertiary {
+    background-color: $codyBrown;
+    color: $white;
+}
